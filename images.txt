@@ -7,4 +7,4 @@ xhofe/alist:latest
 zack357/douban-tool
 nriver/trilium-cn
 syncthing/syncthing
-
+McCloudS/subgen
